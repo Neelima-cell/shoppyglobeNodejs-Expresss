@@ -112,6 +112,12 @@ Frontend repo: [ShoppyGlobe React App](https://github.com/Neelima-cell/shopeglob
 
 ---
 
+## 📦 Repository
+
+GitHub repo: [https://github.com/Neelima-cell/shoppyglobeNodejs-Expresss](https://github.com/Neelima-cell/shoppyglobeNodejs-Expresss)
+
+---
+
 ## 👩‍💻 Author
 
 [Neelima-cell](https://github.com/Neelima-cell) 
